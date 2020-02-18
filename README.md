@@ -22,4 +22,4 @@ Please submit a zipped folder containing your c# console application and the URL
 - Welcome module and end of program module included in program
 
 
-Github Classroom Invitation URL:  
+Github Classroom Invitation URL: https://classroom.github.com/a/Qw6kT3D2
