@@ -9,3 +9,14 @@ C:\Users\cozbryj\Desktop\assignmentOne\assignment\obj\Debug\netcoreapp3.1\assign
 C:\Users\cozbryj\Desktop\assignmentOne\assignment\obj\Debug\netcoreapp3.1\assignment_one.AssemblyInfo.cs
 C:\Users\cozbryj\Desktop\assignmentOne\assignment\obj\Debug\netcoreapp3.1\assignment_one.dll
 C:\Users\cozbryj\Desktop\assignmentOne\assignment\obj\Debug\netcoreapp3.1\assignment_one.pdb
+C:\Users\cozbryj\Desktop\progAssignOne\bin\Debug\netcoreapp3.1\assignment_one.exe
+C:\Users\cozbryj\Desktop\progAssignOne\bin\Debug\netcoreapp3.1\assignment_one.deps.json
+C:\Users\cozbryj\Desktop\progAssignOne\bin\Debug\netcoreapp3.1\assignment_one.runtimeconfig.json
+C:\Users\cozbryj\Desktop\progAssignOne\bin\Debug\netcoreapp3.1\assignment_one.runtimeconfig.dev.json
+C:\Users\cozbryj\Desktop\progAssignOne\bin\Debug\netcoreapp3.1\assignment_one.dll
+C:\Users\cozbryj\Desktop\progAssignOne\bin\Debug\netcoreapp3.1\assignment_one.pdb
+C:\Users\cozbryj\Desktop\progAssignOne\obj\Debug\netcoreapp3.1\assignment_one.csprojAssemblyReference.cache
+C:\Users\cozbryj\Desktop\progAssignOne\obj\Debug\netcoreapp3.1\assignment_one.AssemblyInfoInputs.cache
+C:\Users\cozbryj\Desktop\progAssignOne\obj\Debug\netcoreapp3.1\assignment_one.AssemblyInfo.cs
+C:\Users\cozbryj\Desktop\progAssignOne\obj\Debug\netcoreapp3.1\assignment_one.dll
+C:\Users\cozbryj\Desktop\progAssignOne\obj\Debug\netcoreapp3.1\assignment_one.pdb
